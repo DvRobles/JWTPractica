@@ -6,7 +6,7 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   database: 'nodejwt',
-  password: 'vadrob'
+  password: ''
 });
 
 connection.connect();
